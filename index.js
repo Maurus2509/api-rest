@@ -15,7 +15,7 @@ var DB = {
         },
         {
             id: 10,
-            car: "Toyota Prius",
+            car: "Toyota Corolla",
             lv: "lv2",
             price: 25
         },
