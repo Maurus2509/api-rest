@@ -1,0 +1,1 @@
+Este código implementa um sistema de agendamento de lavagem de carros usando Express e Body-Parser. Ele define rotas para leitura, criação e exclusão de planos e tratamento de solicitações HTTP. Postman é usado para testar solicitações, enviar dados para rotas e verificar as respostas do servidor.
