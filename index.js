@@ -9,7 +9,7 @@ var DB = {
     cars: [
         {
             id: 1,
-            car: "Honda Civic",
+            car: "Honda Fit",
             lv: "lv1",
             price: 20
         },
